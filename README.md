@@ -5,3 +5,6 @@ Whether you're a beginner looking to learn C or an experienced developer wanting
 
 Challenge Overview Every day for the next 25 days, you will be presented with a coding task or problem to solve in the C programming language.
 These challenges will cover a range of topics and difficulty levels, allowing you to gradually build your expertise in C.
+
+P.S. - All the Dates are in the Format (mm/dd/yyyy)
+Follow me on linkedin to get various updates : https://www.linkedin.com/in/kartik-ingole-3b85b8290/recent-activity/all/
